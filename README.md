@@ -1,11 +1,3 @@
-// 留个口子，等改日再见
-- 👋 Hi, I’m @haolian9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-haolian9/haolian9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @haolian9
+- I’m interested in customizing linux workflow, extending nvim
+- I’m currently learning zig
